@@ -51,11 +51,4 @@ The system is implemented with the following classes:
 - To run unit tests, use the following command: `java -jar testfile.jar`.
 - Ensure the `testfile.jar` is in the same directory as your compiled package.
 
-## Author Information
 
-- [Your Name]
-- [Your Partner’s Name]
-
-## Notes
-
-For more information, please refer to the course document on Object-Oriented Programming Development Paradigm.
